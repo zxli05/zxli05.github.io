@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhixuan Li - Homepage"
-description              : "Undergraduate student at Anhui University, Hefei, China."
+title                    : "zhixuan"
+# description              : "Undergraduate student at Anhui University, Hefei, China."
 repository               : "zxli05/zxli05.github.io"   # 必须与真实仓库一致，引用数靠它拼 URL
 google_scholar_stats_use_cdn : true                     # true = 走 jsDelivr，国内可访问（有缓存延迟）
 
@@ -23,11 +23,11 @@ baidu_site_verification  :  # 可选
 author:
   name             : "Zhixuan Li"
   avatar           : "images/avatar.png"                # 把旧仓库的 images/profile.png 改名为 avatar.png 传到这里
-  bio              : "B.Sc. Student in Applied Statistics"
+  # bio              : "B.Sc. Student in Applied Statistics"
   location         : "Hefei, China"
   employer         : "Anhui University"
   pubmed           :
-  googlescholar    : ""   # <<< 待填：https://scholar.google.com/citations?user=你的ID
+  #googlescholar    : ""   # <<< 待填：https://scholar.google.com/citations?user=你的ID
   email            : "zxli05@126.com"
   researchgate     :
   uri              :
