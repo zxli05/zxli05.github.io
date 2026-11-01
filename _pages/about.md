@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate student at Anhui University, majoring in Applied Statistics (Hefei, China). My research interests include statistical modeling, data analysis, and machine learning.
-
+I am a senior undergraduate student at Anhui University. 
 
 
 <!--# 🔥 News
