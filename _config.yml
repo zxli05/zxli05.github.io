@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "zhixuan"
-# description              : "Undergraduate student at Anhui University, Hefei, China."
+description              : "Never lose your first light."
 repository               : "zxli05/zxli05.github.io"   # 必须与真实仓库一致，引用数靠它拼 URL
 google_scholar_stats_use_cdn : true                     # true = 走 jsDelivr，国内可访问（有缓存延迟）
 
